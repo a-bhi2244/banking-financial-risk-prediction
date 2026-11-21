@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Banking & Financial Risk Prediction System Using Machine Learning
 
@@ -109,3 +110,6 @@ python -m streamlit run app.py
 
 ## Disclaimer
 This project is developed for educational and research purposes. Predictions are not intended to be used as the sole basis for real financial or lending decisions.
+
+
+
