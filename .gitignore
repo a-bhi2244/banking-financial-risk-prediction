@@ -1,0 +1,37 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Raw datasets
+data/raw/
+default+of+credit+card+clients/
+default_credit_card.xls/
+
+# Large trained models
+models/*.pkl
+
+# Temporary files
+*.log
+*.tmp
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Processed datasets
+data/processed/
