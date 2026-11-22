@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Banking & Financial Risk Prediction System Using Machine Learning
 
