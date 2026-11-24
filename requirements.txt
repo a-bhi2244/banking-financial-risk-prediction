@@ -9,3 +9,5 @@ joblib
 openpyxl
 xlrd
 jupyter
+
+huggingface_hub
